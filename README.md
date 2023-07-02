@@ -1,4 +1,4 @@
-I# Logical Additions
+# Logical Additions
 Logic World mod with parts that I think have their place in Logic World (logically)
 
 ## Part list:
