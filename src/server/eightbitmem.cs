@@ -3,7 +3,7 @@ using LogicAPI.Server;
 using LogicLog;
 using LogicWorld.Server.Circuitry;
 
-namespace MB
+namespace LA
 {
     public class eightbitmem : LogicComponent
     {
