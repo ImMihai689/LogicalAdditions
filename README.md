@@ -10,6 +10,7 @@ Logic World mod with parts that I think have their place in Logic World (logical
   - You send the propper character ASCII code to the eight clumped up pins on the back, and when you pulse the other pin on the back (the "set" pin), the ASCII code will be output-ed. And guess what? When you change the code, as long as you don't pulse the "set" pin, it will remember the code, and output the character.
   ### `8bit Counter` *
   - The side input closest to the outputs will increment the output. The side input closest to the other inputs will set the clock to the input 8 bits.
+  - You can daisy-chain multiple clocks together by connecting the most segnificant bit output of one clock to th eincrement input of the next clock.
 
     *The parts do not retain data if you leave and join the sandbox again. This will be fixed when I get around to it (or if someone wants to contribute idk)
 
