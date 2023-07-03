@@ -13,7 +13,7 @@ Logic World mod with parts that I think have their place in Logic World (logical
   - You send the propper character ASCII code to the eight clumped up pins on the back, and when you pulse the other pin on the back (the "set" pin), the ASCII code will be output-ed. And guess what? When you change the code, as long as you don't pulse the "set" pin, it will remember the code, and output the character.
 
 # How to install
-  - Go to the "code" button above the files, and press "download code"
+  - Go to the "Code" button above the files, and press "Download ZIP"
   - Go on steam, right click Logic World in your library, go to "Manage > Browse local files", and open the "GameData" folder
   - Move the just-downloaded mod zip to the GameData folder
   - Extract the zip there (inside the GameData folder)
